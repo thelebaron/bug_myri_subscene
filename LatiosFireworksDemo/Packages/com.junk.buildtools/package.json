@@ -1,0 +1,17 @@
+{
+  "name": "com.junk.buildtools",
+  "description": "build tools & git versioning scripts",
+  "version": "0.0.5",
+  "displayName": "Junk Build Tools",
+  "dependencies": {
+    "com.unity.platforms": "0.10.0-preview.10",
+    "com.unity.platforms.windows": "0.10.0-preview.10",
+    "com.unity.addressables": "1.15.1"
+  },
+  "type": "tool",
+  "unity": "2020.1",
+  "author": {
+    "name": "thelebaron",
+    "url": "https://www.twitter.com/chrislebaron"
+  }
+}

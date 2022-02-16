@@ -1,0 +1,23 @@
+{
+    "name": "junk.buildtools",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Build",
+        "Unity.Build.Classic",
+        "Unity.Build.Windows.Classic",
+        "Unity.Entities",
+        "Unity.Addressables.Editor",
+        "Unity.Addressables"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
